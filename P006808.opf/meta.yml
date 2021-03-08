@@ -4,4 +4,9 @@ source_metadata:
   id: bdr:W27875
   title: སྔ་འགྱུར་བསྟན་པའི་ཤིང་རྟ་དཔལ་ཡུལ་པའི་ཕྱག་བཞེས་ཀྱི་གདངས་དབྱངས
   author: ''
-  volumes: {}
+  volumes:
+    76a2b84bc2c94e23bc37bed49d273a91:
+      image_group_id: I4494
+      title: ''
+      volume_number: 1
+      total_pages: 240
